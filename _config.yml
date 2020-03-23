@@ -56,7 +56,7 @@ google_analytics:
   id: 'G-DKC2X75Q61'
   # The Google Analytics pageviews switch.
   # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
-  pv: false
+  pv: true
   # superProxy baseURL and URL, only valid when `google_analytics.pv` is set to 'true'
   proxy_baseurl: ''
   proxy_url: ''
