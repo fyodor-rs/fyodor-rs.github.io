@@ -10,7 +10,7 @@
 
 title: Fyodor                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: A developer.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -22,7 +22,7 @@ url: 'https://fyodor-rs.github.io'
 
 author: Fyodor                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/800088139.jpg   # support internet resources
 
 github:
   username: fyodor-rs             # change to your github username
