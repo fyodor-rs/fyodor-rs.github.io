@@ -2,7 +2,6 @@
 title: The Best Organizer Software
 date: 2017-09-12 00:00:00 +0300
 categories: [Blogging, Demo]
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tags: [Holidays, Hawaii]
 seo:
   date_modified: 2020-03-23 14:31:08 +0800
