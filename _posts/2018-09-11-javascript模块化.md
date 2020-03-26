@@ -2,7 +2,7 @@
 title: javascript模块化
 date: 2018-09-11 19:33:00 +0800
 categories: [Learn, JavaScript]
-tags: [JavaScript]
+tags: [javascript]
 seo:
   date_modified: 2018-09-11 11:33:00 +0800
 ---
