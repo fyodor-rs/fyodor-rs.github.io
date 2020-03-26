@@ -8,7 +8,7 @@ title: About
 # MIT License
 ---
 
-职业：web开发者|全栈工程师
+职业：web开发者 | 全栈工程师
 
 联系方式：13544102930@163.com
 
