@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+> 平凡而稳定的前行 | 爱与思考 -- 13544102930@163.com
