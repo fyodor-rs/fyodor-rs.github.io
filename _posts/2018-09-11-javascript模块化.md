@@ -78,7 +78,7 @@ require(['myModule'],function(my){
 #### 2.4、CMD 的 SeaJS
 
 ```javascript
-define(id, deps, factory)
+/*define(id, deps, factory)
 
 因为CMD推崇一个文件一个模块，所以经常就用文件名作为模块id；
 CMD推崇依赖就近，所以一般不在define的参数中写依赖，而是在factory中写。
@@ -95,7 +95,7 @@ exports 是一个对象，用来向外提供模块接口；
 三，module
 module 是一个对象，上面存储了与当前模块相关联的一些属性和方法。
 
-demo
+demo*/
 // 定义模块  myModule.js
 define(function(require, exports, module) {
   var $ = require('jquery.js')
