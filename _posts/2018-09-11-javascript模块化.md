@@ -1,5 +1,5 @@
 ---
-title: javascript模块化
+title: JavaScript模块化
 date: 2018-09-11 19:33:00 +0800
 categories: [learn, javaScript]
 tags: [javascript]
